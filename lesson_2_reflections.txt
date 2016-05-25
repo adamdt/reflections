@@ -18,3 +18,10 @@ change?
 	Only add files that deal with the specific problem you're working on to the
 	staging area. Then check using git diff to ensure that the only changes in the
 	staging area are the ones pertaining to the current problem.
+
+4) What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+	Branches are helpful in making substantial changes to a project while wishing to
+	retain a working copy. Localization, new features, different versions, etc. are
+	all reasons to create a new branch.
