@@ -31,3 +31,11 @@ organized? How would branches help?
 	The diagrams help me to see how branches are connected and, more importantly, how
 	they're NOT connected (detatched heads, etc.). I have a feeling the diagrams will
 	be helpful in learning about merging, too.
+
+6) What is the result of merging two branches together? Why do we represent it in the
+diagram the way we do?
+
+	The result of merging branches is the combination of the code in each branch,
+	with the exception of the code that was deleted from the parent commit(s). It's
+	represented in the diagram to show parental relationships, even though once
+	merged, the commits will be sorted according to timestamps.
