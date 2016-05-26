@@ -1,0 +1,5 @@
+1) When would you want to use a remote repository rather than keeping all your work local?
+
+	Remote repositories could be used to access your code from more than one workstation
+	and/or to allow multiple people to access/update your code without having to manually
+	send/receive files.
