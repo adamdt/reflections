@@ -39,3 +39,12 @@ diagram the way we do?
 	with the exception of the code that was deleted from the parent commit(s). It's
 	represented in the diagram to show parental relationships, even though once
 	merged, the commits will be sorted according to timestamps.
+
+7) What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+	The pros are being able to have Git do the merging for you when the changes are
+	straightforward and simple. The cons are having to manually sift through changes
+	when they're not, as well as the possibility that Git could make a mistake and
+	discard something that shouldn't be discarded. But hey, that's why we're using
+	versioning software, right?
