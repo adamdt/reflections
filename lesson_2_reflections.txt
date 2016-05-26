@@ -25,3 +25,9 @@ organized? How would branches help?
 	Branches are helpful in making substantial changes to a project while wishing to
 	retain a working copy. Localization, new features, different versions, etc. are
 	all reasons to create a new branch.
+
+5) How do the diagrams help you visualize the branch structure?
+
+	The diagrams help me to see how branches are connected and, more importantly, how
+	they're NOT connected (detatched heads, etc.). I have a feeling the diagrams will
+	be helpful in learning about merging, too.
