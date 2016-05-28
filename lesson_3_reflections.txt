@@ -3,3 +3,14 @@
 	Remote repositories could be used to access your code from more than one workstation
 	and/or to allow multiple people to access/update your code without having to manually
 	send/receive files.
+
+2) Why might you want to always pull changes manually rather than having Git automatically
+stay up-to-date with your remote repository?
+
+	Manually pulling changes ensures that you only change the contents of your local
+	repository when you want to, rather than potentially pulling changes to the code you're
+	working on without you realizing or wanting it. For instance, if you're working on a
+	collaborative project and updating a feature, but someone else pushes an update that
+	could break your code, you'd want to make sure that you were aware of that before you
+	pulled that update to your local repository, probably after you had finished your
+	feature update.
