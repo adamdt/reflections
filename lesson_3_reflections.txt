@@ -43,3 +43,11 @@ would be harder?
 	from a command line and remember all the commands, but it would be harder because I'd
 	have to upload everything manually anyway, but wouldn't get features like pull
 	requests, branching, etc.
+
+6) When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+	If I was collaborating, I'd make changes in a separate branch any time they changed
+	the logic of the program, since they could potentially break or otherwise affect
+	another user's code; however, if I was working on my own, I'd probably only do it when
+	introducing a major change/new feature.
