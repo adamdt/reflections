@@ -26,3 +26,10 @@ instead of another?
 	set of commits that goes in a different direction from the main version of the project.
 	You'd use it if you wanted to make a new feature or fix a bug while retaining a working
 	copy of the project.
+
+4) What is the benefit of having a copy of the last known state of the remote stored
+locally?
+
+	It helps you to know, without an internet connection, how your repository differs from
+	the remote. It also helps the merge process by ensuring neither party's edits get
+	neglected unintentionally.
