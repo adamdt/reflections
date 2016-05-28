@@ -23,9 +23,9 @@ instead of another?
 	A clone is a copy of a repository on GitHub or a local machine to another location.
 	You'd use it if you wanted to work on a GitHub repository on your local machine or
 	create a copy of a repository on your local machine in another location. A branch is a
-	set of commits that goes in a different direction from the main version of the project.
-	You'd use it if you wanted to make a new feature or fix a bug while retaining a working
-	copy of the project.
+	set of commits that goes in a different direction from the main version of the
+	project. You'd use it if you wanted to make a new feature or fix a bug while retaining
+	a working copy of the project.
 
 4) What is the benefit of having a copy of the last known state of the remote stored
 locally?
@@ -33,3 +33,13 @@ locally?
 	It helps you to know, without an internet connection, how your repository differs from
 	the remote. It also helps the merge process by ensuring neither party's edits get
 	neglected unintentionally.
+
+5) How would you collaborate without using Git or GitHub? What would be easier, and what
+would be harder?
+
+	I suppose I'd try to use some file sharing service like Dropbox or Google Drive, but
+	there would be no automatic version controlling suited to collaboration like there is
+	in Git. It might be slightly easier just because I wouldn't have to control everything
+	from a command line and remember all the commands, but it would be harder because I'd
+	have to upload everything manually anyway, but wouldn't get features like pull
+	requests, branching, etc.
